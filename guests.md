@@ -3,6 +3,7 @@
 | Rylee Cherry      | 2             |
 | Aimee Howard      | 3             |
 | Carl Pacheco      | 1             |
+| Daniel Radtke     | 1             |
 | Karissa Moore     | 2             |
 | Sophia Riley      | 2             |
 | Imani Stout       | 5             |
